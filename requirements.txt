@@ -2,7 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
-tensorflow
 scikit-learn
 flask
+pymongo
 -e .
